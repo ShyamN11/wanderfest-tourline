@@ -11,14 +11,14 @@ function Home() {
 
       <div className="hero-buttons">
         <a
-          href="tel:+918807509155"
+          href="tel:+917904579099"
           className="btn call"
         >
           Call Now
         </a>
 
         <a
-          href="https://wa.me/918807509155"
+          href="https://wa.me/917904579099"
           target="_blank"
           rel="noopener noreferrer"
           className="btn whatsapp"

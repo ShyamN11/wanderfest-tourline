@@ -2,7 +2,7 @@ function FloatingButtons() {
   return (
     <>
       <a
-        href="tel:+918807509155"
+        href="tel:+917904579099"
         className="floating-btn call-float"
         aria-label="Call Now"
       >
@@ -10,7 +10,7 @@ function FloatingButtons() {
       </a>
 
       <a
-        href="https://wa.me/918807509155"
+        href="https://wa.me/917904579099"
         target="_blank"
         rel="noopener noreferrer"
         className="floating-btn whatsapp-float"
