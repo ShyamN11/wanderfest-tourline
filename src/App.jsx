@@ -6,6 +6,8 @@ import Tours from "./pages/Tours";
 import TourDetails from "./pages/TourDetails";
 import Contact from "./pages/Contact";
 import Gallery from "./pages/Gallery";
+console.log("App loaded successfully");
+
 
 function App() {
   return (
