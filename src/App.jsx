@@ -4,6 +4,7 @@ import FloatingButtons from "./components/FloatingButtons";
 import Home from "./pages/Home";
 import Tours from "./pages/Tours";
 import TourDetails from "./pages/TourDetails";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/tours" element={<Tours />} />
         <Route path="/tour/:slug" element={<TourDetails />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
 
       <FloatingButtons />

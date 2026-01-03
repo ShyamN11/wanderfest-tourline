@@ -250,3 +250,25 @@ body {
     margin-right: 10px;
   }
 }
+/* CONTACT FORM */
+.contact-form {
+  max-width: 420px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #0b5ed7;
+}
